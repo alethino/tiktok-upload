@@ -150,8 +150,8 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 ```
 
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
 
 # tiktok-mass-creator-accounts
 mass registration of tik tok accounts, tik tok likes, comments, tik tok latest version
